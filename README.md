@@ -1,5 +1,3 @@
-# Directory(Folder) Structure
-아래 `kimcode`, `leecode`와 같이 각 팀원별로 각자의 이름에 맞는 폴더를 생성하여 기존 저스트그램 코드를 옮겨둡니다.
 
 # JUSTGRAM React Mission
 | 💡 미션 순서에 맞게 순수 JavaScript로 구현한 인스타그램 프로젝트를 React로 옮기는 과제입니다.
